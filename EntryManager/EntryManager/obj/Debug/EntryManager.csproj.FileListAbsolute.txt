@@ -11,3 +11,16 @@ C:\Users\AJRUNHAAR\MyProjects\EntryManager\EntryManager\obj\Debug\EntryManager.P
 C:\Users\AJRUNHAAR\MyProjects\EntryManager\EntryManager\obj\Debug\EntryManager.csproj.GenerateResource.Cache
 C:\Users\AJRUNHAAR\MyProjects\EntryManager\EntryManager\obj\Debug\EntryManager.exe
 C:\Users\AJRUNHAAR\MyProjects\EntryManager\EntryManager\obj\Debug\EntryManager.pdb
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\bin\Debug\EntryManager.exe.config
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\obj\Debug\EntryManager.exe
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\obj\Debug\EntryManager.pdb
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\bin\Debug\EntryManager.exe
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\bin\Debug\EntryManager.pdb
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\obj\Debug\EntryManager.csprojResolveAssemblyReference.cache
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\obj\Debug\Views\MainEntryView.baml
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\obj\Debug\Views\MainEntryView.g.cs
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\obj\Debug\App.g.cs
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\obj\Debug\EntryManager_MarkupCompile.cache
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\obj\Debug\EntryManager.g.resources
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\obj\Debug\EntryManager.Properties.Resources.resources
+C:\Users\AJR\MyProjects\EntryManager\EntryManager\obj\Debug\EntryManager.csproj.GenerateResource.Cache
