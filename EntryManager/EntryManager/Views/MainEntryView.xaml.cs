@@ -19,9 +19,11 @@ namespace EntryManager.Views
     /// </summary>
     public partial class MainEntryView : Window
     {
+        ViewModels.MainEntryViewModel _viewModel;
         public MainEntryView()
         {
             InitializeComponent();
+            _viewModel = (ViewModels.MainEntryViewModel)base.DataContext;
         }
     }
 }
