@@ -20,10 +20,12 @@ namespace EntryManager.Views
     public partial class MainEntryView : Window
     {
         ViewModels.MainEntryViewModel _viewModel;
+        Models.MainEntryModel _model;
         public MainEntryView()
         {
             InitializeComponent();
             _viewModel = (ViewModels.MainEntryViewModel)base.DataContext;
+            _model = new Models.MainEntryModel();
         }
     }
 }
